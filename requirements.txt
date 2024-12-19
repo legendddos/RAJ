@@ -1,6 +1,2 @@
-pymongo
-python-telegram-bot
-pyTelegramBotAPI
-certifi
-pytz
+python-telegram-bot==20.0
 subprocess
